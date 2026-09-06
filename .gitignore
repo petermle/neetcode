@@ -1,5 +1,6 @@
 # ignore env
 .idea/
 
-# user folders (remove when more utils added)
-utils/
+# ignore all python cached compile files
+__pycache__/
+*.py[cod]
