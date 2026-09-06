@@ -1,6 +1,4 @@
-# utility for normalizing lists for comparison of contents, rather than order
-def normalize(groups):
-    return sorted([sorted(group) for group in groups])
+from utils import normalize
 
 def group_anagrams(strs: list[str]) -> list[list[str]]:
     """
