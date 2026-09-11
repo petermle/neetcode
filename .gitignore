@@ -4,3 +4,6 @@
 # ignore all python cached compile files
 __pycache__/
 *.py[cod]
+
+# ignore bst maker for now
+src/utils/BSTMaker.java
