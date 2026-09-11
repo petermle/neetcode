@@ -1,3 +1,4 @@
+package Greedy;
 public class jump_game
 {
     public static boolean canJump(int[] nums)
