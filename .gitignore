@@ -1,5 +1,6 @@
 # ignore env
 .idea/
+.vscode/
 
 # ignore all python cached compile files
 __pycache__/
